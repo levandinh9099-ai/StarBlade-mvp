@@ -802,6 +802,9 @@ release/Starblade-MVP/Starblade-Zodiac-Awakening-20261007-RandomMusicLaunch.exe
 
 去程与回程各可对同一敌人命中一次，同一飞行阶段不会反复伤害。星轨审判等复用星镖外观的必杀保留自己的飞行寿命与轨迹，不套用普攻距离。
 
+# 版本2.4.0.1 改动说明（2026-10-13）
+
+游戏原声带The Star Gate Opens已经发布。
 
 
 
